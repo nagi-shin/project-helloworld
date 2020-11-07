@@ -1,3 +1,4 @@
+//等差級數
 #include <stdio.h>
 main(){
     int x, y, sum;

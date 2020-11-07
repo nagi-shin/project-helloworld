@@ -1,3 +1,4 @@
+//直角三角形(一)
 #include <stdio.h>
 main(){
     int x, y, z;

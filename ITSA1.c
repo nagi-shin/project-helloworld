@@ -1,3 +1,4 @@
+//總和 差 乘積 商數 餘數運算
 #include <stdio.h>
 main(){
     int x, y;

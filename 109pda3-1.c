@@ -1,3 +1,4 @@
+//等差數列
 #include <stdio.h>
 main(){
     int x , y;
